@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irema\\source\\repos\\Monster_Trading_Cards_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E832E9E-3017-4A2D-82B6-566F16C5374A}|Monster_Trading_Cards_Game\\Monster_Trading_Cards_Game.csproj|c:\\users\\irema\\source\\repos\\monster_trading_cards_game\\monster_trading_cards_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E832E9E-3017-4A2D-82B6-566F16C5374A}|Monster_Trading_Cards_Game\\Monster_Trading_Cards_Game.csproj|solutionrelative:monster_trading_cards_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irema\\source\\repos\\Monster_Trading_Cards_Game\\Monster_Trading_Cards_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Monster_Trading_Cards_Game\\Program.cs",
+              "ToolTip": "C:\\Users\\irema\\source\\repos\\Monster_Trading_Cards_Game\\Monster_Trading_Cards_Game\\Program.cs",
+              "RelativeToolTip": "Monster_Trading_Cards_Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:33:15.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
